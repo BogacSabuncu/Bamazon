@@ -1,5 +1,5 @@
-module.exports = function (sequilize, DataTypes) {
-    var Post = sequelize.define("Post", {
+module.exports = function (sequelize, DataTypes) {
+    var Product = sequelize.define("Product", {
         product_name: {
             type: DataTypes.STRING,
             allowNull: false,
@@ -16,9 +16,11 @@ module.exports = function (sequilize, DataTypes) {
             type: DataTypes.INTEGER,
             allowNull: false
         },
-        stock_quality: {
+        stock_quantity: {
             type: DataTypes.INTEGER,
             allowNull: false
         }
     });
+    
+    return Product;
 };

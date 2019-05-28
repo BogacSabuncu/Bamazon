@@ -1,0 +1,32 @@
+[
+    {
+        "product_name": "Division Bells - Pink Floyd ",
+        "department_name": "Viynl",
+        "price": 30,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Record Player",
+        "department_name": "Devices",
+        "price": 100,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Bose Speakers",
+        "department_name": "Devices",
+        "price": 250,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Random Access Memory - Daft Punk",
+        "department_name": "Viynl",
+        "price": 1,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Best of Frank Sinatra - Frank Sinatra",
+        "department_name": "Viynl",
+        "price": 1,
+        "stock_quantity": 10
+    }
+]
