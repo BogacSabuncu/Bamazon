@@ -1,32 +1,44 @@
 [
     {
         "product_name": "Division Bells - Pink Floyd ",
-        "department_name": "Viynl",
+        "department_name": "Vinyl",
         "price": 30,
-        "stock_quantity": 10
+        "stock_quantity": 10,
+        "product_image":"https://imagescdn.juno.co.uk/full/CS538821-01A-BIG.jpg"
     },
     {
-        "product_name": "Record Player",
+        "product_name": "Record Player - Audio Technica",
         "department_name": "Devices",
         "price": 100,
-        "stock_quantity": 10
+        "stock_quantity": 10,
+        "product_image":"https://www.rio.com.au/wp-content/uploads/2018/04/ATLP60BT-RIO.jpg"
     },
     {
         "product_name": "Bose Speakers",
         "department_name": "Devices",
         "price": 250,
-        "stock_quantity": 10
+        "stock_quantity": 10,
+        "product_image":"https://images.crutchfieldonline.com/ImageHandler/trim/620/378/products/2015/7/018/g018AM5VB-F-2.jpg"
     },
     {
         "product_name": "Random Access Memory - Daft Punk",
-        "department_name": "Viynl",
-        "price": 1,
-        "stock_quantity": 10
+        "department_name": "Vinyl",
+        "price": 35,
+        "stock_quantity": 10,
+        "product_image":"https://upload.wikimedia.org/wikipedia/en/a/a7/Random_Access_Memories.jpg"
     },
     {
         "product_name": "Best of Frank Sinatra - Frank Sinatra",
-        "department_name": "Viynl",
-        "price": 1,
-        "stock_quantity": 10
+        "department_name": "Vinyl",
+        "price": 28,
+        "stock_quantity": 10,
+        "product_image":"https://upload.wikimedia.org/wikipedia/en/8/89/Frank_Sinatra_-_Ultimate_Sinatra_Cover.jpg"
+    },
+    {
+        "product_name": "Sony Headphones",
+        "department_name": "Head Phones",
+        "price": 300,
+        "stock_quantity": 10,
+        "product_image":"https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmarksparrow%2Ffiles%2F2018%2F10%2FWH-1000XM3_Side1.jpg"
     }
 ]

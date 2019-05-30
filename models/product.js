@@ -19,6 +19,10 @@ module.exports = function (sequelize, DataTypes) {
         stock_quantity: {
             type: DataTypes.INTEGER,
             allowNull: false
+        },
+        product_image:{
+            type: DataTypes.STRING,
+            allowNull: false
         }
     });
     

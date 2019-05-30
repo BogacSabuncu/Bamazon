@@ -1,0 +1,11 @@
+.card {
+    display:inline-block;
+}
+
+body{
+    background-color: bisque;
+}
+
+.card-img-top{
+    height: 250px;
+}
