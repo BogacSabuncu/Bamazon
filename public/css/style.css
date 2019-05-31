@@ -1,11 +1,56 @@
 .card {
-    display:inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    align-self: center;
+}
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
 }
 
 body{
-    background-color: bisque;
+    background-color: #ddd;
 }
 
+/* div{
+    border: 1px solid black;
+} */
+
 .card-img-top{
-    height: 250px;
+    height: 300px;
+}
+
+.card-body{
+    height: 30vh;
+}
+
+h1{
+    font-size: 50pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    text-decoration: underline purple;
+
+}
+#header-row{
+    background-color: #eee;
 }
